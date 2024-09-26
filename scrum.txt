@@ -1,0 +1,21 @@
+Passos para desenvolver um bom sistema:
+
+1) Levantamento de requisitos (entender a necessidade dos clientes)
+
+2) Planejamento do levantamendo de requisitos (metodologia agil)
+
+3) Modelagem de dados 
+
+4) Protópipo/Wireframe
+
+5) Desenvolvimento
+
+6) Versionamento
+
+7) Teste
+
+8) homologação
+
+9) Produção
+
+10) Manutenção	
